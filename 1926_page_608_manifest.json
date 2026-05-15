@@ -1,0 +1,51 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://cainweideman.github.io/iiif-test/1926_page_608_manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "1926 Address Book Groningen - Page 608"
+    ]
+  },
+  "summary": {
+    "en": [
+      "OCR text with bounding box annotations"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+      "type": "Canvas",
+      "width": 2106,
+      "height": 2699,
+      "annotations": [
+        {
+          "id": "https://cainweideman.github.io/iiif-test/page_608.json",
+          "type": "AnnotationPage",
+          "motivation": "commenting"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://cainweideman.github.io/iiif-test/canvas/page-608/image",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://cainweideman.github.io/iiif-test/canvas/page-608/image/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://cainweideman.github.io/iiif-test/page_608.jpg",
+                "type": "Image",
+                "format": "image/png",
+                "height": 2699,
+                "width": 2106
+              },
+              "target": "https://cainweideman.github.io/iiif-test/canvas/page-608"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
