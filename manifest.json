@@ -1,0 +1,51 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://cainweideman.github.io/iiif-test/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "1911 Address Book - Page 108"
+    ]
+  },
+  "summary": {
+    "en": [
+      "OCR text with bounding box annotations"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://cainweideman.github.io/iiif-test/canvas/page-121",
+      "type": "Canvas",
+      "width": 2106,
+      "height": 2699,
+      "annotations": [
+        {
+          "id": "https://cainweideman.github.io/iiif-test/page_121.json",
+          "type": "AnnotationPage",
+          "motivation": "commenting"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://cainweideman.github.io/iiif-test/canvas/page-121/image",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://cainweideman.github.io/iiif-test/canvas/page-121/image/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://cainweideman.github.io/iiif-test/page_121.jpg",
+                "type": "Image",
+                "format": "image/png",
+                "height": 2699,
+                "width": 2106
+              },
+              "target": "https://cainweideman.github.io/iiif-test/canvas/page-121"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
