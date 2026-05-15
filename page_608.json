@@ -1,0 +1,1229 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "https://cainweideman.github.io/iiif-test/page_608.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0000",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ALPHABETISCHE LIJST",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:585,352,913,63"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"585,352 1498,352 1498,415 585,415 585,352\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0001",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "DER",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:993,458,99,50"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"993,458 1092,458 1092,508 993,508 993,458\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0002",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "STRATEN, GRACHTEN, PLEINEN, ENZ., MET INWONERS.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:313,546,1443,75"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"313,546 1756,546 1756,621 313,621 313,546\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0003",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. (Hooge der)",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:336,747,295,47"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"336,747 631,747 631,794 336,794 336,747\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0004",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Loopt van Brugstraat tot Visscherstraat.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:207,786,550,80"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"207,786 596,786 596,829 757,824 757,866 428,866 428,824 207,829 207,786\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0005",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wed. P. B. Bos. J. Hofstede, Barbier. 2a Mej. A. Bakker, H. e. Bew.sch. Mej. N. Bakker. 3 K. Reitsema, Café-Restaurant. Za Mej. S. Lüschen. Mej. E. Bronsema. H. Huizinga, Kantoorbed.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:240,891,519,297"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"297,891 598,891 598,937 648,929 648,973 759,965 759,1008 568,1001 568,1042 759,1036 759,1079 608,1073 608,1114 631,1108 631,1152 758,1142 758,1188 295,1188 295,1142 295,1152 295,1108 242,1114 242,1073 241,1079 241,1036 292,1042 292,1001 240,1008 240,965 290,973 290,929 297,937 297,891\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0006",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "31—32 Pakhuizen. 4 H. Th. Krone, Dames- en Heerenkleermaker. 4a K. Douma.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:207,1174,551,155"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"207,1174 525,1174 525,1220 758,1213 758,1256 758,1250 758,1294 499,1285 499,1329 237,1329 237,1285 431,1294 431,1250 237,1256 237,1213 207,1220 207,1174\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0007",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "5—6 Pakh. Coöp. Gron. Zaad telersvereeniging. P. de Vries, Aardappel handel. 6a Pakh. P. de Vries, Aard appelhandel. H. A. Buisman, Notaris. Dr. K. Kooy. Helene J. M. Westveer, Kinderarts.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:200,1321,557,367"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"200,1321 755,1321 755,1365 757,1359 757,1402 757,1393 757,1439 756,1431 756,1471 756,1464 756,1511 755,1504 755,1545 712,1538 712,1582 539,1575 539,1619 722,1610 722,1656 755,1647 755,1688 555,1688 555,1647 292,1656 292,1610 292,1619 292,1575 292,1582 292,1538 532,1545 532,1504 241,1511 241,1464 617,1471 617,1431 294,1439 294,1393 449,1402 449,1359 200,1365 200,1321\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0008",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "9 H. Helder Pzn.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:232,1674,318,51"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"232,1674 550,1674 550,1725 232,1725 232,1674\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0009",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "10 G. Bauduin, Maj. Maréch.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:228,1711,528,51"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"228,1711 756,1711 756,1762 228,1762 228,1711\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0010",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "10a J. A. Mulock Houwer.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:225,1748,473,49"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"225,1748 698,1748 698,1797 225,1797 225,1748\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0011",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "10b J. A. Meijer, Steengoed winkel en Ass. Post.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:222,1787,534,80"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"222,1787 756,1787 756,1831 756,1824 756,1867 366,1867 366,1824 222,1831 222,1787\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0012",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "11 F. J. G. Furda, Dir. N.V. Gron. Conf. Fabr. v. h. Gebr. Furda.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:220,1856,536,118"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"220,1856 755,1856 755,1903 756,1895 756,1942 534,1930 534,1974 292,1974 292,1930 290,1942 290,1895 220,1903 220,1856\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0013",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "11a J. Beetjer, In Rijwielen en Onderdeelen.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:223,1967,532,78"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"223,1967 755,1967 755,2011 753,2003 753,2045 523,2045 523,2003 223,2011 223,1967\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0014",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "12 Dr. P. C. Romkes, Arts.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:221,2036,486,44"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"221,2036 707,2036 707,2080 221,2080 221,2036\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0015",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "13 N.V. Handelsver. „Atlanta“ Puddingfabriek.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:221,2073,518,79"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"221,2073 739,2073 739,2114 570,2106 570,2152 289,2152 289,2106 221,2114 221,2073\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0016",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "13a Mej. M. Eikenhout. S. Hielema, Handelsreiz.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:222,2145,495,80"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"222,2145 642,2145 642,2189 717,2179 717,2225 287,2225 287,2179 222,2189 222,2145\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0017",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "14 Firma J. Muller, Lederhandel. G. C. Mulder, Lederhand.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:223,2214,531,80"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"223,2214 754,2214 754,2260 754,2248 754,2294 292,2294 292,2248 223,2260 223,2214\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0018",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "14a B. A. G. Ubink, Dir. Uitg. Maatsch. J. B. Wolters.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:223,2285,527,81"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"223,2285 750,2285 750,2332 718,2320 718,2366 292,2366 292,2320 223,2332 223,2285\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0019",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "14b",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:221,2354,71,44"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"221,2354 292,2354 292,2398 221,2398 221,2354\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0020",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "15 G. Mulder, Caféhouder.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:220,2391,466,46"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"220,2391 686,2391 686,2437 220,2437 220,2391\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0021",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "151 Kant. en Magaz. van A. Tamling, In Machinerieën.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:219,2428,532,81"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"219,2428 751,2428 751,2472 751,2466 751,2509 290,2509 290,2466 219,2472 219,2428\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0022",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "16 J. C. Diderich, Schoenhandel en Schoenmaker.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:217,2500,538,80"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"217,2500 754,2500 754,2546 755,2538 755,2580 463,2580 463,2538 217,2546 217,2500\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0023",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "17 Filiaal van den Bergh's Schoenfabriek. L. H. Goris, Filiaalh. L. J. Goris. 17a 18 A. Veldman, Landbouwm. 18a Mevr. Elema—Wiersema. 19 Ned. Amer. Hypoth.bank Intern. Hypotheekbank. R. Tuzee, Procuratieh. 20 Firma J. A. Dagelet, Heeren en Kinderkleeding en gros. A. J. G. Dagelet. Mej. C. J. Dagelet. 21 J. H. Waterborg, Zakken verh. Kant. en Pakhuis. 22—23 Magazijnen N.V. Handel in IJzerwaren en Huish. Artik. v/h. J. G. Adriani. 24 J. Nederhoed, Broodb. 24a Mej. A. Kuiper, Agent R. v. Arb. 25 H. Sloots. H. Eerkens, Koster Christ. Ger. Kerk. D. N. v. Heerden, Direct. Bew. dienst. J. R. H. Buining, Jur. Stud. B. A. Groeneveld, Ph. Stud. 1 Firma J. H. Reneman en 2 Zonen, Meubelmakers. 2а J. H. Reneman, Meubelm. 3—4—5—6 N.V. Bouwmath. M. Reneman, Meubelm. J. Ph. Broekschmidt en Co. 27—27a Kantoor Falke en Mekel, H. Münninghoff, Direct. Tricotagefabriek. A. Hummel, Huisbew. 28 H. J. Dertien, Handelsr. 28a Mej. G. ter Borg. 29 F. A. G. Blöte, Fotograaf. Jac. Norden, Agentuur en Comm.hand. 29a S. Willemsen, Lid der Handelsvenn. v.h. Firma Jb. Norden, Confect. 30 H. Groenewold, Dames Hoeden. 30a P. Munstra en Co., Verfw. 31 B. Stalman, Machine en Constr. Fabriek. G. S. Stalman, Esperanto Works.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:762,749,1070,1834"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"790,749 1315,749 1315,794 1315,788 1315,828 1239,824 1239,866 1062,858 1062,903 859,893 859,934 1321,927 1321,971 1278,964 1278,1008 1318,1001 1318,1045 1271,1036 1271,1080 1255,1070 1255,1114 1315,1105 1315,1152 1314,1142 1314,1186 1156,1177 1156,1221 1191,1213 1191,1257 1312,1248 1312,1292 1312,1285 1312,1329 1312,1322 1312,1366 1313,1358 1313,1400 1313,1390 1313,1437 1232,1425 1232,1474 1246,1464 1246,1508 1314,1502 1314,1545 1041,1537 1041,1580 1315,1573 1315,1617 1315,1610 1315,1651 1315,1646 1315,1688 1318,1682 1318,1725 1315,1716 1315,1759 1386,1753 1386,1797 1392,1786 1392,1831 1410,1823 1410,1868 1806,1857 1806,1903 1832,1891 1832,1940 1805,1927 1805,1974 1313,1968 1313,2008 1248,2002 1248,2045 1276,2036 1276,2082 1170,2075 1170,2119 1311,2110 1311,2154 1312,2145 1312,2191 1311,2182 1311,2223 1311,2216 1311,2260 1313,2253 1313,2297 1221,2288 1221,2331 1260,2322 1260,2366 1310,2360 1310,2400 1313,2396 1313,2437 1281,2430 1281,2474 1313,2468 1313,2511 1312,2502 1312,2546 1314,2536 1314,2583 1173,2583 1173,2536 845,2546 845,2502 1021,2511 1021,2468 774,2474 774,2430 776,2437 776,2396 1161,2400 1161,2360 776,2366 776,2322 852,2331 852,2288 847,2297 847,2253 775,2260 775,2216 1088,2223 1088,2182 849,2191 849,2145 779,2154 779,2110 779,2119 779,2075 775,2082 775,2036 850,2045 850,2002 1014,2008 1014,1968 774,1974 774,1927 847,1940 847,1891 852,1903 852,1857 906,1868 906,1823 852,1831 852,1786 855,1797 855,1753 859,1759 859,1716 1088,1725 1088,1682 852,1688 852,1646 1115,1651 1115,1610 848,1617 848,1573 776,1580 776,1537 1121,1545 1121,1502 774,1508 774,1464 776,1474 776,1425 850,1437 850,1390 848,1400 848,1358 762,1366 762,1322 889,1329 889,1285 774,1292 774,1248 850,1257 850,1213 849,1221 849,1177 845,1186 845,1142 777,1152 777,1105 850,1114 850,1070 850,1080 850,1036 781,1045 781,1001 782,1008 782,964 783,971 783,927 784,934 784,893 848,903 848,858 852,866 852,824 1055,828 1055,788 790,794 790,749\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0024",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "BOEK- EN HANDELSDRUKKERIJ M. DE WAAL IS EEN GOED ADRES",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:311,2595,1424,52"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"311,2595 1735,2595 1735,2647 311,2647 311,2595\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0025",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "26",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:776,1784,62,46"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"776,1784 838,1784 838,1830 776,1830 776,1784\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0026",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. (Lage der)",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1461,2003,255,45"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1461,2003 1716,2003 1716,2048 1461,2048 1461,2003\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0027",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Loopt van A-straat tot Reitdiepskade.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1319,2041,517,79"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1319,2041 1661,2041 1661,2084 1836,2069 1836,2120 1553,2120 1553,2069 1319,2084 1319,2041\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0028",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. (Kleine der)",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1447,1607,285,47"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1447,1607 1732,1607 1732,1654 1447,1654 1447,1607\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0029",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Loopt van Brugstraat tot Reitemakersrijge.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1323,1652,511,82"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1323,1652 1710,1652 1710,1695 1834,1687 1834,1734 1500,1734 1500,1687 1323,1695 1323,1652\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0030",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. Scheltens, Cand. Wis en Natuurkunde.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1410,748,435,82"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1410,748 1845,748 1845,799 1845,785 1845,830 1579,830 1579,785 1410,799 1410,748\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0031",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "31a J. A. de Graaf, onderw.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1339,822,484,46"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1339,822 1823,822 1823,868 1339,868 1339,822\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0032",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "32—32a K. Flik, in melkbussen. J. Reinking, Med. Stud.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1339,858,505,84"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1339,858 1844,858 1844,905 1818,896 1818,942 1408,942 1408,896 1339,905 1339,858\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0033",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "33 E. Pais Rzn., in Scheeps benoodigdheden.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1339,930,501,80"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1339,930 1825,930 1825,976 1840,967 1840,1010 1592,1010 1592,967 1339,976 1339,930\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0034",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "33a J. van Zijl, leeraar M. T. S.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1339,1001,500,46"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1339,1001 1839,1001 1839,1047 1339,1047 1339,1001\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0035",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "34 P. D. Kruizenga, Barbier en sigarenmag.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1337,1036,504,83"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1337,1036 1841,1036 1841,1082 1841,1075 1841,1119 1599,1119 1599,1075 1337,1082 1337,1036\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0036",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "34a H. Berends.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1337,1111,283,43"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1337,1111 1620,1111 1620,1154 1337,1154 1337,1111\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0037",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "35 J. H. Dijkhuizen, Kapper.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1338,1146,503,44"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1338,1146 1841,1146 1841,1190 1338,1190 1338,1146\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0038",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "35a Mej. B. Hof. A. J. van Leusen, Med. Student. J. H. de Muinck Keizer, Med. Stud.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1336,1181,503,186"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1336,1181 1628,1181 1628,1225 1804,1216 1804,1262 1839,1251 1839,1295 1816,1287 1816,1335 1837,1323 1837,1367 1668,1367 1668,1323 1410,1335 1410,1287 1715,1295 1715,1251 1410,1262 1410,1216 1336,1225 1336,1181\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0039",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "36 H. Eisseler, Caféh.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1336,1360,397,44"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1336,1360 1733,1360 1733,1404 1336,1404 1336,1360\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0040",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "36a Wed. C. J. H. Drewes. A. D. Goedhuis, Med.Stud.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1336,1397,500,79"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1336,1397 1797,1397 1797,1441 1836,1430 1836,1476 1410,1476 1410,1430 1336,1441 1336,1397\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0041",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "37 Wed. J. Gerritsen.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1335,1469,407,45"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1335,1469 1742,1469 1742,1514 1335,1514 1335,1469\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0042",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "37a E. R. Vriesema. J. Oosterhuis, Phil. Stud.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1334,1506,490,81"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1334,1506 1695,1506 1695,1551 1824,1537 1824,1587 1403,1587 1403,1537 1334,1551 1334,1506\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0043",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "N.V. Mennens & Co., Aan nemers- en Scheepsbenoo digdheden. la A. Sundermeijer, Winkelchef.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1348,2140,487,157"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1401,2140 1835,2140 1835,2189 1834,2173 1834,2225 1834,2212 1834,2255 1835,2246 1835,2297 1348,2297 1348,2246 1675,2255 1675,2212 1403,2225 1403,2173 1401,2189 1401,2140\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0044",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "2 Dekkleedenfabr. en Verh., Gebr. Waterborg.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1347,2285,487,81"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1347,2285 1815,2285 1815,2334 1834,2322 1834,2366 1567,2366 1567,2322 1347,2334 1347,2285\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0045",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "3 Pakhuis „Frankrijk\" (Graan handel J. v. d. Berg).",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1346,2353,488,85"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1346,2353 1834,2353 1834,2403 1788,2391 1788,2438 1403,2438 1403,2391 1346,2403 1346,2353\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0046",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "4 J. D. Imelman, D. C. de Jonge, Drog. en Verfw. Mej. H. Schoondorp. H. de Vries.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1346,2423,488,161"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1346,2423 1834,2423 1834,2475 1834,2462 1834,2509 1769,2501 1769,2546 1620,2539 1620,2584 1399,2584 1399,2539 1405,2546 1405,2501 1440,2509 1440,2462 1346,2475 1346,2423\" /></svg>"
+          }
+        ]
+      }
+    }
+  ]
+}
