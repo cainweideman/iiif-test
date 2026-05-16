@@ -16,8 +16,8 @@
     {
       "id": "https://cainweideman.github.io/iiif-test/canvas/page-608",
       "type": "Canvas",
-      "width": 2106,
-      "height": 2699,
+      "width": 1955,
+      "height": 2858,
       "annotations": [
         {
           "id": "https://cainweideman.github.io/iiif-test/page_608.json",
@@ -38,8 +38,8 @@
                 "id": "https://cainweideman.github.io/iiif-test/page_608.jpg",
                 "type": "Image",
                 "format": "image/png",
-                "height": 2699,
-                "width": 2106
+                "height": 2858,
+                "width": 1955
               },
               "target": "https://cainweideman.github.io/iiif-test/canvas/page-608"
             }
