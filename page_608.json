@@ -124,7 +124,7 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "https://cainweideman.github.io/iiif-test/anno_0005",
       "type": "Annotation",
-      "motivation": "commenting",
+      "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
         "value": "Wed. P. B. Bos. J. Hofstede, Barbier. 2a Mej. A. Bakker, H. e. Bew.sch. Mej. N. Bakker. 3 K. Reitsema, Café-Restaurant. Za Mej. S. Lüschen. Mej. E. Bronsema. H. Huizinga, Kantoorbed.",
