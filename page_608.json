@@ -14,7 +14,7 @@
         "format": "text/plain",
         "language": "nl"
       },
-      "target": "https://cainweideman.github.io/iiif-test/canvas/page-608#xywh=pixel:585,352,913,63",
+      "target": "https://cainweideman.github.io/iiif-test/canvas/page-608#xywh=pixel:585,352,913,63"
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
