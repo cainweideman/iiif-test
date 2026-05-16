@@ -1,0 +1,150 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "https://cainweideman.github.io/iiif-test/page_608.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0000",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ALPHABETISCHE LIJST",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:585,352,913,63"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"585,352 1498,352 1498,415 585,415 585,352\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0001",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "DER",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:993,458,99,50"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"993,458 1092,458 1092,508 993,508 993,458\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0002",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "STRATEN, GRACHTEN, PLEINEN, ENZ., MET INWONERS.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:313,546,1443,75"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"313,546 1756,546 1756,621 313,621 313,546\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0003",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. (Hooge der)",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:336,747,295,47"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"336,747 631,747 631,794 336,794 336,747\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0004",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Loopt van Brugstraat tot Visscherstraat.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": {
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:207,786,550,80"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"207,786 596,786 596,829 757,824 757,866 428,866 428,824 207,829 207,786\" /></svg>"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cainweideman.github.io/iiif-test/anno_0005",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wed. P. B. Bos. J. Hofstede, Barbier. 2a Mej. A. Bakker, H. e. Bew.sch. Mej. N. Bakker. 3 K. Reitsema, Café-Restaurant. Za Mej. S. Lüschen. Mej. E. Bronsema. H. Huizinga, Kantoorbed.",
+        "format": "text/plain",
+        "language": "nl"
+      },
+      "target": "https://cainweideman.github.io/iiif-test/canvas/page-608#xywh=240,891,519,297"
+    }
+  ]
+}
