@@ -14,20 +14,7 @@
         "format": "text/plain",
         "language": "nl"
       },
-      "target": {
-        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=pixel:585,352,913,63"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg><polygon points=\"585,352 1498,352 1498,415 585,415 585,352\" /></svg>"
-          }
-        ]
-      }
+      "target": "https://cainweideman.github.io/iiif-test/canvas/page-608#xywh=pixel:585,352,913,63",
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
