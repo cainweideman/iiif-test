@@ -124,14 +124,22 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "https://cainweideman.github.io/iiif-test/anno_0005",
       "type": "Annotation",
-      "motivation": "highlighting",
+      "textGranularity": "line",
+      "motivation": ["supplementing"],
       "body": {
         "type": "TextualBody",
         "value": "Wed. P. B. Bos. J. Hofstede, Barbier. 2a Mej. A. Bakker, H. e. Bew.sch. Mej. N. Bakker. 3 K. Reitsema, Café-Restaurant. Za Mej. S. Lüschen. Mej. E. Bronsema. H. Huizinga, Kantoorbed.",
         "format": "text/plain",
         "language": "nl"
       },
-      "target": "https://cainweideman.github.io/iiif-test/canvas/page-608#xywh=240,891,519,297"
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=240,891,519,297"
+        }
+      }
     }
   ]
 }
