@@ -7,7 +7,7 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "https://cainweideman.github.io/iiif-test/anno_0000",
       "type": "Annotation",
-      "motivation": "commenting",
+      "motivation": "tagging",
       "body": {
         "type": "TextualBody",
         "value": "ALPHABETISCHE LIJST",
@@ -124,8 +124,7 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "https://cainweideman.github.io/iiif-test/anno_0005",
       "type": "Annotation",
-      "textGranularity": "line",
-      "motivation": "painting",
+      "motivation": "tagging",
       "body": {
         "type": "TextualBody",
         "value": "Wed. P. B. Bos. J. Hofstede, Barbier. 2a Mej. A. Bakker, H. e. Bew.sch. Mej. N. Bakker. 3 K. Reitsema, Café-Restaurant. Za Mej. S. Lüschen. Mej. E. Bronsema. H. Huizinga, Kantoorbed.",
@@ -134,9 +133,13 @@
       },
       "target": {
         "type": "SpecificResource",
-        "source": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+        "source": {
+          "id": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+          "type": "Canvas"
+        },
         "selector": {
           "type": "FragmentSelector",
+          "conformsTo":	"http://www.w3.org/TR/media-frags/",
           "value": "xywh=240,891,519,297"
         }
       }
