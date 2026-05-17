@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://cainweideman.github.io/iiif-test/1926_page_608_manifest.json",
+  "id": "https://cainweideman.github.io/iiif-test/1926/608/manifest.json",
   "type": "Manifest",
   "label": {
     "en": [
