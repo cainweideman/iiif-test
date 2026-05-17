@@ -13,6 +13,12 @@
       "type": "Canvas",
       "width": 1955,
       "height": 2858,
+      "annotations": [
+        {
+          "id": "https://cainweideman.github.io/iiif-test/annotaties/pagina-121.json",
+          "type": "AnnotationPage"
+        }
+      ],
       "items": [
         {
           "id": "https://cainweideman.github.io/iiif-test/canvas/page-121/image",
@@ -43,8 +49,7 @@
       "annotations": [
         {
           "id": "https://cainweideman.github.io/iiif-test/annotaties/pagina-608.json",
-          "type": "AnnotationPage",
-          "motivation": "commenting"
+          "type": "AnnotationPage"
         }
       ],
       "items": [
