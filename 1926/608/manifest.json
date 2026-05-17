@@ -20,7 +20,7 @@
       "height": 2858,
       "annotations": [
         {
-          "id": "https://cainweideman.github.io/iiif-test/page_608.json",
+          "id": "https://cainweideman.github.io/iiif-test/1926/608/page_608.json",
           "type": "AnnotationPage",
           "motivation": "commenting"
         }
@@ -35,7 +35,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://cainweideman.github.io/iiif-test/page_608.jpg",
+                "id": "https://cainweideman.github.io/iiif-test/1926/608/page_608.jpg",
                 "type": "Image",
                 "format": "image/png",
                 "height": 2858,
