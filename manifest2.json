@@ -13,19 +13,12 @@
       "type": "Canvas",
       "width": 1955,
       "height": 2858,
-      "seeAlso": [
-        {
+      "seeAlso": {
           "id": "https://cainweideman.github.io/iiif-test/transcripties/page-121.xml",
           "type": "Dataset",
           "format": "text/xml",
-          "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
-          "label": {
-            "nl": [
-              "Transcriptie voor pagina 121"
-            ]
-          }
-        }
-      ],
+          "profile": "http://www.loc.gov/standards/alto/ns-v4#",
+        },
       "items": [
         {
           "id": "https://cainweideman.github.io/iiif-test/canvas/page-121/image",
