@@ -15,10 +15,9 @@
       "height": 2858,
       "seeAlso": {
           "id": "https://cainweideman.github.io/iiif-test/transcripties/page-121.xml",
-          "type": "Dataset",
           "format": "text/xml",
           "profile": "http://www.loc.gov/standards/alto/ns-v4#",
-        },
+      },
       "items": [
         {
           "id": "https://cainweideman.github.io/iiif-test/canvas/page-121/image",
