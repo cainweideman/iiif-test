@@ -43,6 +43,11 @@
         },
         "@type" : "oa:Annotation"
       } ],
+      "seeAlso": {
+        "@id": "https://cainweideman.github.io/iiif-test/transcripties/page-121.xml",
+        "profile": "http://www.loc.gov/standards/alto/ns-v4#",
+        "format": "text/xml"
+      },
       "@type" : "sc:Canvas"
     } ],
     "label" : "Current Page Order",
