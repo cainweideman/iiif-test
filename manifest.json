@@ -13,7 +13,7 @@
       "type": "Canvas",
       "width": 1955,
       "height": 2858,
-      "seeAloso" : [
+      "seeAlso" : [
         {
           "id": "https://cainweideman.github.io/iiif-test/transcripties/page-121.xml",
           "type": "Dataset",
