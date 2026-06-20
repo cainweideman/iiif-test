@@ -16,7 +16,7 @@
       "seeAlso": {
           "id": "https://cainweideman.github.io/iiif-test/transcripties/page-121.xml",
           "format": "text/xml",
-          "profile": "http://www.loc.gov/standards/alto/ns-v4#",
+          "profile": "http://www.loc.gov/standards/alto/ns-v4#"
       },
       "items": [
         {
