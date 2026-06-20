@@ -1,0 +1,54 @@
+{
+  "@id" : "https://cainweideman.github.io/iiif-test/manifest3.json",
+  "label" : "Label",
+  "attribution" : "Groninger Archieven",
+  "license" : "",
+  "logo" : "https://www.groningerarchieven.nl/images/pers/Groninger%20Archieven%20-%20Logo%20rood%20-%20staand.png",
+  "related" : "Related",
+  "seeAlso" : "",
+  "description" : "Description",
+  "metadata" : [
+    {
+      "label" : "Digitised by",
+      "value" : "Groninger Archieven"
+    },
+    {
+      "label" : "Title",
+      "value" : "Adresboek Groningen 1926"
+    },
+    {
+      "label" : "Date",
+      "value" : "1926"
+    },
+    {
+      "label" : "Language",
+      "value" : "Dutch"
+    }
+  ],
+  "sequences" : [ {
+    "canvases" : [ {
+      "@id" : "https://cainweideman.github.io/iiif-test/canvas/f1",
+      "label" : "Pagina 121",
+      "height" : 2699,
+      "width" : 2106,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://cainweideman.github.io/iiif-test/canvas/f1",
+        "resource" : {
+          "format" : "image/jpeg",
+          "height" : 2699,
+          "width" : 2106,
+          "@id" : "https://cainweideman.github.io/iiif-test/afbeeldingen/pagina-121.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "@type" : "sc:Canvas"
+    } ],
+    "label" : "Current Page Order",
+    "@type" : "sc:Sequence",
+    "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9604118j/sequence/default"
+  } ],
+  "@type" : "sc:Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json"
+}
