@@ -13,6 +13,15 @@
       "type": "Canvas",
       "width": 1955,
       "height": 2858,
+      "seeAloso" : [
+        {
+          "id": "https://cainweideman.github.io/iiif-test/transcripties/page-121.xml",
+          "type": "Dataset",
+          "format": "text/xml",
+          "profile": "http://www.loc.gov/standards/alto/ns-v2#",
+          "label": "Transcriptie voor pagina 121"
+        }
+      ],
       "annotations": [
         {
           "id": "https://cainweideman.github.io/iiif-test/annotaties/pagina-121.json",
