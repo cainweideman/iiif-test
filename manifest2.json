@@ -1,0 +1,79 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://cainweideman.github.io/iiif-test/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Adresboek Groningen 1926"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://cainweideman.github.io/iiif-test/canvas/page-121",
+      "type": "Canvas",
+      "width": 1955,
+      "height": 2858,
+      "seeAlso": [
+        {
+          "id": "https://cainweideman.github.io/iiif-test/transcripties/page-121.xml",
+          "type": "Dataset",
+          "format": "application/xml+alto",
+          "profile": "http://www.loc.gov/standards/alto/ns-v2#",
+          "label": {
+            "nl": [
+              "Transcriptie voor pagina 121"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://cainweideman.github.io/iiif-test/canvas/page-121/image",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://cainweideman.github.io/iiif-test/canvas/page-121/image/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://cainweideman.github.io/iiif-test/afbeeldingen/pagina-121.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2858,
+                "width": 1955
+              },
+              "target": "https://cainweideman.github.io/iiif-test/canvas/page-121"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://cainweideman.github.io/iiif-test/canvas/page-608",
+      "type": "Canvas",
+      "width": 1955,
+      "height": 2858,
+      "items": [
+        {
+          "id": "https://cainweideman.github.io/iiif-test/canvas/page-608/image",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://cainweideman.github.io/iiif-test/canvas/page-608/image/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://cainweideman.github.io/iiif-test/afbeeldingen/pagina-608.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2858,
+                "width": 1955
+              },
+              "target": "https://cainweideman.github.io/iiif-test/canvas/page-608"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
