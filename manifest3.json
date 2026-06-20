@@ -29,8 +29,8 @@
     "canvases" : [ {
       "@id" : "https://cainweideman.github.io/iiif-test/canvas/f1",
       "label" : "Pagina 121",
-      "height" : 2699,
-      "width" : 2106,
+      "height" : 2822,
+      "width" : 1948,
       "images" : [ {
         "motivation" : "sc:painting",
         "on" : "https://cainweideman.github.io/iiif-test/canvas/f1",
