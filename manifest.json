@@ -17,7 +17,7 @@
         {
           "id": "https://cainweideman.github.io/iiif-test/transcripties/page-121.xml",
           "type": "Dataset",
-          "format": "text/xml",
+          "format": "application/xml+alto",
           "profile": "http://www.loc.gov/standards/alto/ns-v2#",
           "label": "Transcriptie voor pagina 121"
         }
