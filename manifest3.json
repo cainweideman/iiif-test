@@ -46,7 +46,7 @@
       "seeAlso": {
         "@id": "https://cainweideman.github.io/iiif-test/transcripties/page-121.xml",
         "profile": "http://www.loc.gov/standards/alto/ns-v2#",
-        "format": "text/xml"
+        "format": "application/xml+alto"
       },
       "@type" : "sc:Canvas"
     } ],
