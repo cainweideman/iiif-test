@@ -1,0 +1,48 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://cainweideman.github.io/iiif-test/manifest4.json",
+  "type": "Manifest",
+  "label": { "nl": ["Adresboek Groningen 1926"] },
+  "metadata": [
+    { "label": { "en": ["Digitised by"] }, "value": { "en": ["Groninger Archieven"] } },
+    { "label": { "en": ["Date"] }, "value": { "en": ["1926"] } }
+  ],
+  "items": [
+    {
+      "id": "https://cainweideman.github.io/iiif-test/canvas/f1",
+      "type": "Canvas",
+      "label": { "nl": ["Pagina 121"] },
+      "height": 2822,
+      "width": 1948,
+      "items": [
+        {
+          "id": "https://cainweideman.github.io/iiif-test/canvas/f1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://cainweideman.github.io/iiif-test/canvas/f1/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://cainweideman.github.io/iiif-test/canvas/f1",
+              "body": {
+                "id": "https://cainweideman.github.io/iiif-test/afbeeldingen/pagina-121.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2699,
+                "width": 2106
+              }
+            }
+          ]
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://cainweideman.github.io/iiif-test/transcripties/page-121.xml",
+          "type": "Dataset",
+          "format": "application/xml+alto",
+          "profile": "http://www.loc.gov/standards/alto/ns-v2#"
+        }
+      ]
+    }
+  ]
+}
